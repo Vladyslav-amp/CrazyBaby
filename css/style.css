@@ -41,7 +41,7 @@
   cursor: pointer;
 }
 .icon__arrowR:hover {
-  background-image: url("./images/icon/arrowActive.svg");
+  background-image: url("../images/icon/arrowActive.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -55,23 +55,23 @@
 }
 
 .benefits__icon-1 {
-  background-image: url("./images/icon/icon1_benefits.png");
+  background-image: url("../images/icon/icon1_benefits.png");
 }
 
 .benefits__icon-2 {
-  background-image: url("./images/icon/icon2_benefits.png");
+  background-image: url("../images/icon/icon2_benefits.png");
 }
 
 .benefits__icon-3 {
-  background-image: url("./images/icon/icon3_benefits.png");
+  background-image: url("../images/icon/icon3_benefits.png");
 }
 
 .benefits__icon-4 {
-  background-image: url("./images/icon/icon4_benefits.png");
+  background-image: url("../images/icon/icon4_benefits.png");
 }
 
 .footer__top-logo {
-  background-image: url("./images/icon/footer-logo__img.svg");
+  background-image: url("../images/icon/footer-logo__img.svg");
   background-repeat: no-repeat;
   background-size: 30%;
   background-position: center;
@@ -232,7 +232,7 @@ body {
   }
 }
 .middle-bar__head-img {
-  background-image: url("../../images/head__background.png");
+  background-image: url("../images/head__background.png");
   background-repeat: no-repeat;
   background-position: 36%;
   background-size: 200%;
@@ -517,7 +517,7 @@ body {
   }
 }
 .presentation__block-image {
-  background-image: url("/images/presentation__img.png");
+  background-image: url("../images/presentation__img.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -625,7 +625,7 @@ body {
 }
 .about-us__img-block--1 {
   display: none;
-  background-image: url("../../images/about-us1_desktop.png");
+  background-image: url("../images/about-us1_desktop.png");
 }
 @media (min-width: 640px) {
   .about-us__img-block--1 {
@@ -637,7 +637,7 @@ body {
 }
 .about-us__img-block--2 {
   display: none;
-  background-image: url("../../images/about-us2_desktop.png");
+  background-image: url("../images/about-us2_desktop.png");
 }
 @media (min-width: 640px) {
   .about-us__img-block--2 {
@@ -647,7 +647,7 @@ body {
   }
 }
 .about-us__img-first {
-  background-image: url("../../images/about-us1_desktop.png");
+  background-image: url("../images/about-us1_desktop.png");
 }
 @media (min-width: 640px) {
   .about-us__img-first {
@@ -655,7 +655,7 @@ body {
   }
 }
 .about-us__img-second {
-  background-image: url("../../images/about-us2_desktop.png");
+  background-image: url("../images/about-us2_desktop.png");
 }
 @media (min-width: 640px) {
   .about-us__img-second {
@@ -722,7 +722,7 @@ body {
   }
 }
 .testimonilas__review-block {
-  background-image: url("../../images/img_testimonilas.png");
+  background-image: url("../images/img_testimonilas.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 80%;
@@ -767,7 +767,7 @@ body {
   }
 }
 .testimonilas__img {
-  background-image: url("../../images/icon/avatar.png");
+  background-image: url("../images/icon/avatar.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -960,7 +960,7 @@ body {
 .features__card-img {
   max-height: 600px;
   height: 302px;
-  background-image: url("../../images/desktop__features.png");
+  background-image: url("../images/desktop__features.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
