@@ -1,1 +1,1 @@
-DEMO([https://vladyslav-amp.github.io/CrazyBaby/])
+DEMO(https://vladyslav-amp.github.io/CrazyBaby/)
