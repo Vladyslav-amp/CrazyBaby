@@ -18,40 +18,16 @@
   &__arrowR {
     cursor: pointer;
   }
-
-  &__arrowR:hover {
-    background-image: url("./images/icon/arrowActive.svg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100%;
-  }
 }
 
 .benefits__icon {
-  background-repeat: no-repeat;
-  background-size: cover;
   width: 50px;
   height: 40px;
 }
 
-.benefits__icon-1 {
-  background-image: url("./images/icon/icon1_benefits.png");
-}
-
-.benefits__icon-2 {
-  background-image: url("./images/icon/icon2_benefits.png");
-}
-
-.benefits__icon-3 {
-  background-image: url("./images/icon/icon3_benefits.png");
-}
-
-.benefits__icon-4 {
-  background-image: url("./images/icon/icon4_benefits.png");
-}
 
 .footer__top-logo {
-  background-image: url("./images/icon/footer-logo__img.svg");
+  background-image: url("../images/icon/footer-logo__img.svg");
   background-repeat: no-repeat;
   background-size: 30%;
   background-position: center;

@@ -7,7 +7,6 @@
     display: none;
 
     @include onTablet {
-      // @include consentPaddingInline;
       padding-inline-end: 34px;
       display: block;
       position: absolute;
@@ -21,10 +20,6 @@
 
     @include onTablet {
       display: block;
-    }
-
-    @include onDesktop {
-      // position: absolute;
     }
   }
 
@@ -44,8 +39,6 @@
     flex-direction: row;
     column-gap: 40px;
     justify-content: center;
-    // margin-bottom: 30px;
-
 
     @include onTablet {
       column-gap: 50px;
