@@ -1,0 +1,26 @@
+.middle-bar {
+
+  height: 30vh;
+
+  @include onDesktop {
+    height: 40vh;
+  }
+
+  &__head-img {
+    background-image: url("../../images/head__background.png");
+    background-repeat: no-repeat;
+    background-position: 36%;
+    background-size: 200%;
+    height: 400px;
+    width: 100%;
+
+    @include onTablet {
+      height: 120%;
+      min-width: 310px;
+    }
+
+    @include onDesktop {
+      max-width: 820px;
+    }
+  }
+}

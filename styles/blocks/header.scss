@@ -1,0 +1,12 @@
+.header {
+  @include consentPaddingInline;
+  max-width: 1920px;
+  margin-inline: auto;
+
+  @include onTablet {
+    &__bottom-bar {
+      display: grid;
+      grid-template-columns: repeat(2, 2fr);
+     }
+  }
+}
